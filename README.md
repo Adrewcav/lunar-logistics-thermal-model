@@ -7,7 +7,7 @@ Standard revenue modeling for lunar logistics assumes 100% equipment availabilit
 **The Bottom Line:** At Lunar Noon, payload availability must be throttled. Logistics contracts must account for this exclusion window to prevent SLA (Service Level Agreement) breaches.
 
 ### Analysis Output
-![Lunar Model Output](LunarModel.jpg)
+![Lunar Model Output](84339c07-7002-4511-b726-951680cbe4a0)
 
 ### Methodology
 * **Tooling:** Custom Python simulation (NumPy) modeling the Stefan-Boltzmann Law.
