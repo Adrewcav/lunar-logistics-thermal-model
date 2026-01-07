@@ -2,7 +2,7 @@
 # Project: Lunar Surface Logistics Availability Model
 
 ### Executive Summary
-Standard revenue modeling for lunar logistics assumes 100% equipment availability. However, thermal simulation of the Lunar South Pole reveals a **"Thermal Availability Gap"** where extreme surface heat flux (>450 W/m²) exceeds physical heat rejection limits.
+Standard revenue modeling assumes 100% equipment availability. Using a custom Python (NumPy) thermal simulation reveals a **Thermal Availability Gap** where extreme surface heat flux (>450 W/m²) exceeds physical heat rejection limits.
 
-**The Bottom Line:** At Lunar Noon, payload availability must be throttled. Logistics contracts must account for this exclusion window to prevent SLA (Service Level Agreement) breaches.
+**The Bottom Line:** At Lunar Noon, payload availability must be throttled. Logistics contracts must account for this exclusion window to prevent SLA (Service Level Agreement) breaches. Dynamic mission planning (automation) and radiator innovations would be highly desirable investment areas. 
 
